@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1647819411 source:c:\users\ianmt\documents\codeblocks\caçaniqueis\caça-niqueis\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<conio2.h>
+
+1653516596 source:c:\users\ianmt\onedrive\programas\tudo\programas\ufs\codeblocks\caça-niqueis\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<conio.h>
+	"efeitos_fodas.h"
+
+1653265792 c:\users\ianmt\onedrive\programas\tudo\programas\ufs\codeblocks\caça-niqueis\efeitos_fodas.h
+	<stdio.h>
+	<stdlib.h>
+	<MMSystem.h>
+	<string.h>
+
+1653519899 source:c:\users\marly\documents\codeblocks - ufs\projeto 3 - caça níquel completo\caça-niqueis\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<conio2.h>
+	"efeitos_fodas.h"
+
+1653265792 c:\users\marly\documents\codeblocks - ufs\projeto 3 - caça níquel completo\caça-niqueis\efeitos_fodas.h
+	<stdio.h>
+	<stdlib.h>
+	<MMSystem.h>
+	<string.h>
+
